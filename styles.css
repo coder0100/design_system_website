@@ -1,0 +1,227 @@
+.mainh1{
+    margin-left: 110px;
+}
+
+.section1{
+    width: 1200px;
+    height: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid gray;
+}
+
+
+h2{
+    padding-left: 10px;
+}
+
+.inside {
+    width: 350px;
+    height: 80px;
+    display: inline-block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.blue{
+    background-color: #2d5dcc;
+    margin-left: 10px;
+}
+
+.pink{
+    background-color: #d957d9;
+}
+
+.green{
+    background-color: #4fe0b0;
+}
+
+.beige{
+    background-color: #efd9ca;
+    margin-left: 10px;
+}
+.span1{
+    color: white;
+}
+.div1, .div2{
+    display: inline-block;
+
+}
+.div2{
+    margin-left: 100px;
+}
+
+.section2{
+    margin-top: 20px;
+    width: 1200px;
+    height: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid gray;
+}
+
+/* ---------------font 1------------------ */
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_jiYsKILxRpg3hIP6sJ7fM7PqlOPHYvDP_W9O7GQTTbI1bTl0eRp2Wpi1S.woff) format('woff');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+ }
+@font-face {
+        font-family: 'Source Code Pro';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevWnsUnxg.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+ }
+@font-face {
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/sourcecodepro/v22/HI_SiYsKILxRpg3hIP6sJ7fM7PqlPevWnsUnxg.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  /* --------------------------------- */
+
+.h3_1, .h3_5, .h3_9{
+    text-decoration: underline;
+}
+
+.h3_2{
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.h3_3{
+    font-family: 'Source Code Pro';
+    font-style: normal;
+    font-weight: 700;
+}
+
+.h3_4{
+    font-family: 'Source Code Pro';
+    font-style: italic;
+    font-weight: 400;
+}
+.h2_1, .h3_1, .h3_2, .h3_3, .h3_4, .h3_9, .h3_10, .h3_11, .h3_12{
+    padding-left: 10px;
+}
+/* ---------------font 2------------------ */
+
+@font-face {
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/nunitosans/v12/pe0oMImSLYBIv1o4X1M8cce4E9lKdn4qX5E.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  @font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/nunitosans/v12/pe0qMImSLYBIv1o4X1M8cce9I9tAcVwo.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+  @font-face {
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/nunitosans/v12/pe03MImSLYBIv1o4X1M8cc8GBs5tU1ECVZl_.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+/* --------------------------------- */
+
+.h3_6{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+}
+.h3_7{
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+}
+
+.h3_8{
+    font-family: 'Nunito Sans';
+    font-style: italic;
+    font-weight: 400;
+}
+
+/* ---------------font 3------------------ */
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtAOvWDSA.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+
+@font-face {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+/* --------------------------------- */
+
+.h3_10{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.h3_11{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+}
+
+.h3_12{
+    font-family: 'Poppins';
+    font-style: italic;
+    font-weight: 400;
+}
+
+.section3{
+    margin-top: 20px;
+    margin-bottom: 25px;
+    width: 1200px; 
+    height: 450px;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid gray;
+}
+
+.lasth1, .p_1{
+    padding-left: 10px;
+}
+
